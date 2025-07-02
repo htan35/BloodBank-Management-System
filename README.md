@@ -2,7 +2,7 @@
 
 A comprehensive web application for managing blood donation and distribution operations, built with modern web technologies.
 
-Check out the website:
+**Check out the website**:
 https://bloodbank-management-system-by-harshtanwar.vercel.app/
 
 ## 🩸 Overview
